@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "926731208788",
+    "project_id": "stagyapp-ce626",
+    "storage_bucket": "stagyapp-ce626.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926731208788:android:cb49cbc8729359275705c1",
+        "android_client_info": {
+          "package_name": "com.example.stagyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926731208788-lbjloh27s7h86oq7hnsrke1n4vaj5bu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG1HQ_aut_uqEZb0ss2e7yjkM1SYvu6SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926731208788-lbjloh27s7h86oq7hnsrke1n4vaj5bu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
